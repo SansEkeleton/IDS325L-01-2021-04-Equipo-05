@@ -1,0 +1,76 @@
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe.config
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.pdb
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csprojAssemblyReference.cache
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Login.resources
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.GenerateResource.cache
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.CoreCompileInputs.cache
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.exe
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.pdb
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Registro.resources
+C:\Users\ismad\OneDrive\Documentos\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Menu.resources
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe.config
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.pdb
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.AssemblyReference.cache
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Login.resources
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Menu.resources
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Registro.resources
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.GenerateResource.cache
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.CoreCompileInputs.cache
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.exe
+C:\Users\Tololon\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.pdb
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe.config
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.pdb
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.AssemblyReference.cache
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Asignaturas.resources
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Calificaciones.resources
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Cálculo_de_índice.resources
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Estudiante.resources
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Login.resources
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Menu.resources
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Profesor.resources
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Registro.resources
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.GenerateResource.cache
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.CoreCompileInputs.cache
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.exe
+C:\Users\Justi\Downloads\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.pdb
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe.config
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.pdb
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Asignaturas.resources
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Calificaciones.resources
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Estudiante.resources
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Login.resources
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Menu.resources
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Profesor.resources
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Registro.resources
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.exe
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.pdb
+C:\Users\dell\OneDrive\Documentos\5to trimestre\Proceso de software\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Calculo_Indice.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe.config
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.exe
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\bin\Debug\Login.pdb
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.AssemblyReference.cache
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Asignaturas.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Calificaciones.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Calculo_Indice.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Estudiante.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Login.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Menu.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Profesor.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.Registro.resources
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.GenerateResource.cache
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Sistema Calculo indice.csproj.CoreCompileInputs.cache
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.exe
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\obj\Debug\Login.pdb
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\bin\Debug\dbAcademia.mdf
+C:\Users\VALDEZ GAMING\Desktop\Proyecto sistema de calculo de indicee\Login\bin\Debug\dbAcademia_log.ldf
